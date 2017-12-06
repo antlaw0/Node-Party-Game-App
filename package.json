@@ -1,16 +1,8 @@
 {
-  "name": "node-party-game",
+  "name": "party-game",
   "version": "1.0.0",
-  "description": "Chat app",
+  "description": "party chat game helper",
   "main": "server.js",
-  "dependencies": {
-    "bcrypt-nodejs": "^0.0.3",
-    "connect-mongo": "^1.3.2",
-    "express-session": "^1.15.6",
-    "passport": "^0.3.2",
-    "passport-local": "^1.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
