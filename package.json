@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/antlaw0/Node-Party-Game-App/issues"
   },
-  "homepage": "https://github.com/antlaw0/Node-Party-Game-App#readme"
+  "homepage": "https://github.com/antlaw0/Node-Party-Game-App#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
 }
